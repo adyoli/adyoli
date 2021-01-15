@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Java**
 
-- 📫 How to reach me **adyoli@student.wethinkcode.co.za**
+- 📫 How to reach me **athenkosidyoli@gmail.com**
 
 - ⚡ Fun fact **I know I'm funny**
 
