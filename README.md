@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athenkosi Dyoli</h1>
-<h3 align="center">I am a problem solver, software engineering is my tool of choice. My preferred languages are Python, Java and C/C++. However, I believe  being a goog Software Engineer isn't about what you know but about what you can figure out. So give me any problem, language or framework and I'll figure it out.</h3>
+<h3 align="center">I am a problem solver, software engineering is my tool of choice. My preferred languages are Python, Java and C/C++. However, I believe  being a good Software Engineer isn't about what you know but about what you can figure out. So give me any problem, language or framework and I'll figure it out.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adyoli&label=Profile%20views&color=0e75b6&style=flat" alt="adyoli" /> </p>
 
