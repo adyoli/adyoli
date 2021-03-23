@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adyoli" alt="adyoli" /></a> </p>
 
+[![ Man'sNotCharlesBabbage StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14928634)](https://stackoverflow.com/users/14928634/mansnotcharlesbabbage)
+
+
 - 🔭 I’m currently working on **A stock trading bot**
 
 - 🌱 I’m currently learning **Express and R**
